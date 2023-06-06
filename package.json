@@ -4,7 +4,7 @@
   "description": "Examen design patterns",
   "main": "index.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "ts-node Observer_Meteo/index.ts"
   },
   "author": "Khaffou Mohamed",
   "license": "ISC",
